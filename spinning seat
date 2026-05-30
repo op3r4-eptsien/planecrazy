@@ -3,4 +3,4 @@
 -- 1. Place the Seats spaced approximately 1 block apart (Note: Use regular Seats, NOT Pilot Seats).
 -- 2. Build your aircraft and execute the script.
 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/op3r4-eptsien/core/refs/heads/main/12'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/yvjk/core/refs/heads/main/12'))()
