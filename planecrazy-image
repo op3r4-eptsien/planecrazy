@@ -1,7 +1,7 @@
 -- Usage Instructions:
--- 1. Place the blocks in a 1:1 ratio matching your desired screen aspect ratio.
+-- 1. Build a flat screen using blocks with a 1:1 ratio (1 block per pixel) based on your desired dimensions.
 -- 2. When running the script, paint a single block and select the target grid size (e.g., 51x39).
--- 3. Ensure your built block screen matches the script UI dimensions; otherwise, the image will be distorted.
+-- 3. Ensure your built block screen matches the script UI grid size; otherwise, the image will be distorted.
 -- 4. Paste your Discord CDN image link and press Paint.
 
 loadstring(game:HttpGet('https://raw.githubusercontent.com/op3r4-eptsien/core/refs/heads/main/imagecore'))()
