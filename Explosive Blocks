@@ -1,7 +1,8 @@
---Configuration Instructions:
+-- Configuration Instructions:
 -- 1. Place 5 or more Explosive Blocks in a PVP server.
 -- 2. Ensure each block is spaced exactly 1 block apart.
 -- 3. Configure block settings: BlastPressure = 2500, BlastRadius = 12, Impact speed = 5.
 -- 4. Enable/toggle both "On Impact" and "Ignore Self" options.
+-- 5. Build your aircraft and execute the script.
 
 loadstring(game:HttpGet('https://raw.githubusercontent.com/op3r4-eptsien/core/refs/heads/main/49'))()
