@@ -5,4 +5,4 @@
 -- 4. Enable/toggle both "On Impact" and "Ignore Self" options.
 -- 5. Build your aircraft and execute the script.
 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/op3r4-eptsien/core/refs/heads/main/49'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/yvjk/core/refs/heads/main/49'))()
