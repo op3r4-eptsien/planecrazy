@@ -4,4 +4,4 @@
 -- 3. Ensure your built block screen matches the script UI grid size; otherwise, the image will be distorted.
 -- 4. Paste your Discord CDN image link and press Paint.
 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/op3r4-eptsien/core/refs/heads/main/27'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/yvjk/core/refs/heads/main/27'))()
