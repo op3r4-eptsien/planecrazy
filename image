@@ -2,6 +2,6 @@
 -- 1. Build a flat screen using blocks with a 1:1 ratio (1 block per pixel) based on your desired dimensions.
 -- 2. When running the script, paint a single block and select the target grid size (e.g., 51x39).
 -- 3. Ensure your built block screen matches the script UI grid size; otherwise, the image will be distorted.
--- 4. Paste your Discord CDN image link and press Paint.
 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/yvjk/core/refs/heads/main/27'))()
+getgenv().SCRIPT_KEY = ""
+loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/204e142c959fe3747d9d2859983a48c41b04c95a2b4f9bb1714e9de8de3dad24/download"))()
